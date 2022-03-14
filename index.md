@@ -9,8 +9,10 @@ In my spare time I enjoy:
 * Sailing on my Farr 727 named *Bumble Bee*
 * Sifting through second hand stores for clothes
 
+## House of Crocs
+
 ## About my meme
-I created this meme in RStudio using the Magick package. When creating this meme, I adapted an existing and popular meme format of two stacked images with accompanying text beside the images. It was inspired by three main elements: 
+I created this meme with `R` code in RStudio using the Magick package. I adapted an existing and popular meme format of two stacked images with accompanying text beside the images. It was inspired by three main elements: 
 
 1. My love of sailing
 2. The fact that crocs have come back into fashion
@@ -18,28 +20,24 @@ I created this meme in RStudio using the Magick package. When creating this meme
 
 
 **Crocs and Sailing**
-Crocs were in fact designed for boaties back in 2002 and are often used by sailors as they are a great waterproof shoe. However the brand is slightly controversial as it was considered ugly for many years. However, 2020 saw a rise in sales, and in the first half of 2021 Crocs brought in $1.1 billion in revenue. Which was more than the entirety of 2020. Check out this GQ article for more information on the comeback of Crocs.
 
-https://www.gq.com/story/crocs-comeback
+Crocs were in fact designed for boaties back in 2002 and are often used by sailors as they are a great waterproof shoe. However the brand is slightly controversial as it was considered ugly for many years. However, 2020 saw a rise in sales, and in the first half of 2021 Crocs brought in $1.1 billion in revenue. Which was more than the entirety of 2020. Check out this [GQ article](https://www.gq.com/story/crocs-comeback) for more information on the comeback of Crocs.
 
-My own experience with the brand is their classic clog becoming fashionable back in 2005 very briefly, followed by a long period where owning a pair made you subject to ridicule. I am happy to once again feel confident to sing the praises of Crocs. So, this meme is a celebration of a sailor's love for Crocs. 
+![Sailing and Doctors](https://img-9gag-fun.9cache.com/photo/av5Vd3M_460s.jpg)
 
-https://img-9gag-fun.9cache.com/photo/av5Vd3M_460s.jpg
+My own experience with the brand is their classic clog becoming fashionable back in 2005 very briefly, followed by a long period where owning a pair made you subject to ridicule. I am happy to once again feel confident to sing the praises of Crocs. So, my meme is a celebration of a sailor's love for Crocs. 
+
 
 **Lady Gaga, an icon**
-Lady Gaga played Patrizia Reggiani in the *House of Gucci* (2022) film. Where she improvised the line; ["father, son, and House of Gucci"](https://www.youtube.com/watch?v=aLZYR03aLI0&ab_channel=LadyGagaReactions). Which was adored by fans, critics, and turned into many memes. 
 
-https://www.youtube.com/watch?v=aLZYR03aLI0&ab_channel=LadyGagaReactions
+Lady Gaga played Patrizia Reggiani in the *House of Gucci* (2022) film. Where she improvised the line:
+> [Father, son, and House of Gucci](https://www.youtube.com/watch?v=aLZYR03aLI0&ab_channel=LadyGagaReactions). 
 
-https://imageproxy.ifunny.co/crop:x-20,resize:640x,quality:90x75/images/658cce63b161bd45fdea985c9dac635b50d32c693bad8a2ad18349c70b5f3a75_1.jpg
-
-
-I have titled this meme **House of Crocs**:
+Which was adored by fans, critics, and turned into many memes. 
 
 
+![One does not simply be Lady Gaga](https://imageproxy.ifunny.co/crop:x-20,resize:640x,quality:90x75/images/658cce63b161bd45fdea985c9dac635b50d32c693bad8a2ad18349c70b5f3a75_1.jpg)
 
-
-`inline code`
 
 
 ### The R code used to create my House of Crocs meme:
@@ -50,10 +48,4 @@ post code
 Edit the index.md file so that it displays the new original meme that you have created earlier using R code and the {magick} package, 
 as well as the R code you used to create it.
 
-Your index.md file needs contain information about the meme you created, for example, what the motivation was, and how your meme is new/original 
-(e.g. an adaption of an existing meme format).
 
-use of two different types of bullet points (ordered or unordered)
-use of links to other websites
-use of images, including those within your repository and those accessed from other websites
-use of code fences
