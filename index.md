@@ -12,7 +12,7 @@ In my spare time I enjoy:
 ## House of Crocs
 
 ## About my meme
-I created this meme with `R` code in RStudio using the Magick package. I adapted an existing and popular meme format of two stacked images with accompanying text beside the images. It was inspired by three main elements: 
+I created this meme with `R` code in RStudio using the `Magick` package. I adapted an existing and popular meme format of two stacked images with accompanying text beside the images. It was inspired by three main elements: 
 
 1. My love of sailing
 2. The fact that crocs have come back into fashion
