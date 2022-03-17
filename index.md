@@ -1,14 +1,6 @@
 # Hello Sailor
 Welcome to my STATS220 assignment 1 website. 
 
-## About me
-I'm a long-term fan of mother nature hailing from Tāmaki Makaurau. Being raised by great sailors has influenced my love for the ocean and the natural environment. I graduated from *AUT* with Bachelor of Business in Sustainable Enterprise and Design in 2019. After working for two years as an Administration and Marketing Assistant, I decided to return to study Environmental Science and GIS at the *University of Auckland*.
-
-In my spare time I enjoy: 
-* Crocheting 
-* Sailing on my Farr 727 named *Bumble Bee*
-* Sifting through second hand stores for clothes
-
 ## House of Crocs
 
 ## About my meme
@@ -33,7 +25,10 @@ My own experience with the brand is their classic clog becoming fashionable back
 Lady Gaga played Patrizia Reggiani in the *House of Gucci* (2022) film. Where she improvised the line:
 > [Father, son, and House of Gucci](https://www.youtube.com/watch?v=aLZYR03aLI0&ab_channel=LadyGagaReactions). 
 
-Which was adored by fans, critics, and turned into many memes. 
+Which was adored by:
+* fans,
+* critics, 
+* and turned into many memes
 
 
 ![One does not simply be Lady Gaga](https://imageproxy.ifunny.co/crop:x-20,resize:640x,quality:90x75/images/658cce63b161bd45fdea985c9dac635b50d32c693bad8a2ad18349c70b5f3a75_1.jpg)
