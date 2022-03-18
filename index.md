@@ -1,10 +1,10 @@
 # Hello Sailor
-Welcome to my STATS220 assignment 1 website. 
+Welcome to my STATS 220 assignment 1 website. 
 
 ## House of Crocs
 
 ## About my meme
-I created this meme with `R` code in RStudio using the `Magick` package. I adapted an existing and popular meme format of two stacked images with accompanying text beside the images. It was inspired by three main elements: 
+I created this meme with `R` code in RStudio using the `Magick` package. I adapted an existing and popular meme format of two stacked images with accompanying text beside the images. Three main elements inspired it:
 
 1. My love of sailing
 2. The fact that crocs have come back into fashion
@@ -13,12 +13,11 @@ I created this meme with `R` code in RStudio using the `Magick` package. I adapt
 
 **Crocs and Sailing**
 
-Crocs were in fact designed for boaties back in 2002 and are often used by sailors as they are a great waterproof shoe. However the brand is slightly controversial as it was considered ugly for many years. However, 2020 saw a rise in sales, and in the first half of 2021 Crocs brought in $1.1 billion in revenue. Which was more than the entirety of 2020. Check out this [GQ article](https://www.gq.com/story/crocs-comeback) for more information on the comeback of Crocs.
+Crocs were designed for boaties back in 2002 and are often used by sailors as they are a tremendous waterproof shoe. However, the brand is slightly controversial as it was considered ugly for many years. However, 2020 saw a rise in sales, and in the first half of 2021, Crocs brought in $1.1 billion in revenue. Which was more than the entirety of 2020. Check out this [GQ article](https://www.gq.com/story/crocs-comeback) for more information on the comeback of Crocs.
 
 ![Sailing and Doctors](https://img-9gag-fun.9cache.com/photo/av5Vd3M_460s.jpg)
 
-My own experience with the brand is their classic clog becoming fashionable back in 2005 very briefly, followed by a long period where owning a pair made you subject to ridicule. I am happy to once again feel confident to sing the praises of Crocs. So, my meme is a celebration of a sailor's love for Crocs. 
-
+My own experience with the brand is their classic clog becoming fashionable in 2005 very briefly, followed by a long period where owning a pair made you subject to ridicule. I am happy to feel confident to sing the praises of Crocs once again. So, my meme celebrates a sailor’s love for Crocs.
 
 **Lady Gaga, an icon**
 
