@@ -2,6 +2,7 @@
 Welcome to my STATS 220 assignment 1 website. 
 
 ## House of Crocs
+![House_of_Crocs_Meme](https://github.com/laura-read/stats220/blob/main/House_of_Crocs_meme.png?raw=true)
 
 ## About my meme
 I created this meme with `R` code in RStudio using the `Magick` package. I adapted an existing and popular meme format of two stacked images with accompanying text beside the images. Three main elements inspired it:
@@ -36,10 +37,65 @@ Which was adored by:
 
 ### The R code used to create my House of Crocs meme:
 ```r
-post code
+
+library(magick)
+
+# crocs meme
+
+# square one
+friends_text <- image_blank(width = 500, 
+                          height = 317.5, 
+                          color = "#ffffff") %>%
+               image_annotate(text = "My friends:",
+                              color = "#666666",
+                              size = 50,
+                              font = "Impact",
+                              gravity = "center")
+
+# square two
+house_of_paolo <- image_read("https://www.nme.com/wp-content/uploads/2021/11/Jared-Leto-in-House-Of-Gucci.jpg") %>%
+  image_scale(500) %>%
+  image_annotate(text = "Don't say it again",
+                 color = "#fff700",
+                 size = 30,
+                 font = "Impact",
+                 gravity = "south")
+
+
+# square three
+me_text <- image_blank(width = 500, 
+                       height = 375.2, 
+                       color = "#ffffff") %>%
+                image_annotate(text = "Me, a sailor:",
+                               color = "#666666",
+                               size = 50,
+                               font = "Impact",
+                               gravity = "center")
+
+
+# square four
+house_of_crocs <- image_read("https://headtopics.com/images/2021/7/30/britishvogue/britishvogue-1421037437367857153.webp") %>%
+  image_scale(500) %>%
+  image_annotate(text = "Father, son, and House of CROCS",
+                 color = "#fff700",
+                 size = 30,
+                 font = "Impact",
+                 gravity = "south")
+
+# combining the top row
+paolo_vector <- c(friends_text, house_of_paolo)
+top_row <- image_append(paolo_vector)
+
+# combining the bottom row
+crocs_vector <- c(me_text, house_of_crocs)
+bottom_row <- image_append(crocs_vector)
+
+#final meme combined
+c(top_row, bottom_row) %>%
+  image_append(stack = TRUE) %>%
+  image_scale(800)
+  
 ```
 
-Edit the index.md file so that it displays the new original meme that you have created earlier using R code and the {magick} package, 
-as well as the R code you used to create it.
 
 
