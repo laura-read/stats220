@@ -14,7 +14,7 @@ I created this meme with `R` code in RStudio using the `Magick` package. I adapt
 
 **Crocs and Sailing**
 
-Crocs were designed for boaties back in 2002 and are often used by sailors as they are a tremendous waterproof shoe. However, the brand is slightly controversial as it was considered ugly for many years. However, 2020 saw a rise in sales, and in the first half of 2021, Crocs brought in $1.1 billion in revenue. Which was more than the entirety of 2020. Check out this [GQ article](https://www.gq.com/story/crocs-comeback) for more information on the comeback of Crocs.
+Crocs were designed for boaties back in 2002 and are often used by sailors as they are a tremendous waterproof shoe. The brand is slightly controversial as it was considered ugly for many years. However, 2020 saw a rise in sales, and in the first half of 2021, Crocs brought in $1.1 billion in revenue. Which was more than the entirety of 2020. Check out this [GQ article](https://www.gq.com/story/crocs-comeback) for more information on the comeback of Crocs.
 
 ![Sailing and Doctors](https://img-9gag-fun.9cache.com/photo/av5Vd3M_460s.jpg)
 
