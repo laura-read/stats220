@@ -9,7 +9,7 @@ I will use this repository to display my completed assignments as a way of keepi
 ![datascimeme](https://cdn.someecards.com/someecards/usercards/i-just-installed-rstudio-im-a-data-scientist-now-ebc6a.png)
 
 ## About me
-I'm a long-term fan of mother nature hailing from Tāmaki Makaurau. Being raised by great sailors has influenced my love for the ocean and the natural environment. I graduated from *AUT* with Bachelor of Business in Sustainable Enterprise and Design in 2019. After working for two years as an Administration and Marketing Assistant, I decided to return to study the *University of Auckland*. I am now in my second year studying a Bachelor of Science in GIS and Environmental Science. 
+I'm a long-term fan of mother nature hailing from Tāmaki Makaurau. Being raised by great sailors has influenced my love for the ocean and the natural environment. I graduated from *AUT* with Bachelor of Business in Sustainable Enterprise and Design in 2019. After working for two years as an Administration and Marketing Assistant, I decided to return to study at the *University of Auckland*. I am now in my second year studying a Bachelor of Science in GIS and Environmental Science. 
 
 In my spare time I enjoy: 
 * Crocheting 
